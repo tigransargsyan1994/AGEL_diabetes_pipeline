@@ -1,0 +1,2 @@
+n_encounters,n_unique_patients,mean_length_of_stay_days,median_length_of_stay_days,mean_num_medications,readmission_rate_any,readmission_rate_30d
+101766,71518,4.395986871843248,4.0,16.021844230882614,0.4608808442898414,0.11159915885462728

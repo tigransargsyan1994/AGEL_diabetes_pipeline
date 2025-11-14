@@ -1,0 +1,6 @@
+{
+  "rows": 101766,
+  "columns": 112,
+  "parquet_path": "C:\\Users\\sargsyantigran\\PycharmProjects\\AGEL_project\\data\\silver\\diabetic_encounters_silver.parquet",
+  "csv_path": "C:\\Users\\sargsyantigran\\PycharmProjects\\AGEL_project\\data\\silver\\diabetic_encounters_silver.csv"
+}

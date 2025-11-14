@@ -1,0 +1,8 @@
+# Virtual env & IDE
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints (if any)
+.ipynb_checkpoints/

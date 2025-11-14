@@ -1,0 +1,275 @@
+{
+  "missing_and_duplicates": {
+    "row_count": 101766,
+    "column_count": 50,
+    "missing_by_column": [
+      {
+        "column": "encounter_id",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "patient_nbr",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "race",
+        "missing_count": 2273,
+        "missing_pct": 0.022335554114340742
+      },
+      {
+        "column": "gender",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "age",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "weight",
+        "missing_count": 98569,
+        "missing_pct": 0.9685847925633315
+      },
+      {
+        "column": "admission_type_id",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "discharge_disposition_id",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "admission_source_id",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "time_in_hospital",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "payer_code",
+        "missing_count": 40256,
+        "missing_pct": 0.395574160328597
+      },
+      {
+        "column": "medical_specialty",
+        "missing_count": 49949,
+        "missing_pct": 0.49082208203132677
+      },
+      {
+        "column": "num_lab_procedures",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "num_procedures",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "num_medications",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "number_outpatient",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "number_emergency",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "number_inpatient",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "diag_1",
+        "missing_count": 21,
+        "missing_pct": 0.0002063557573256294
+      },
+      {
+        "column": "diag_2",
+        "missing_count": 358,
+        "missing_pct": 0.0035178743391702533
+      },
+      {
+        "column": "diag_3",
+        "missing_count": 1423,
+        "missing_pct": 0.013983059174970029
+      },
+      {
+        "column": "number_diagnoses",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "max_glu_serum",
+        "missing_count": 96420,
+        "missing_pct": 0.9474677200636755
+      },
+      {
+        "column": "A1Cresult",
+        "missing_count": 84748,
+        "missing_pct": 0.8327732248491637
+      },
+      {
+        "column": "metformin",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "repaglinide",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "nateglinide",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "chlorpropamide",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "glimepiride",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "acetohexamide",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "glipizide",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "glyburide",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "tolbutamide",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "pioglitazone",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "rosiglitazone",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "acarbose",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "miglitol",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "troglitazone",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "tolazamide",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "examide",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "citoglipton",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "insulin",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "glyburide-metformin",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "glipizide-metformin",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "glimepiride-pioglitazone",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "metformin-rosiglitazone",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "metformin-pioglitazone",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "change",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "diabetesMed",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      },
+      {
+        "column": "readmitted",
+        "missing_count": 0,
+        "missing_pct": 0.0
+      }
+    ],
+    "duplicates_all_rows": 0,
+    "duplicates_by_encounter_id": 0
+  },
+  "logical_checks": {
+    "age_min_observed": 0,
+    "age_max_observed": 100,
+    "age_invalid_rows": 0,
+    "age_out_of_0_120": 0,
+    "time_in_hospital_invalid_rows": 0,
+    "time_in_hospital_less_than_1": 0,
+    "time_in_hospital_greater_than_14": 0,
+    "gender_unique_values": [
+      "Female",
+      "Male",
+      "Unknown/Invalid"
+    ],
+    "gender_invalid_values": []
+  }
+}
